@@ -1,0 +1,26 @@
+/**  */
+@media (min-width: 993px) {
+    .body-align {
+        margin-left: 270px;
+    }
+
+    .sidebar-menu-hamburger {
+        display: none;
+    }
+
+    .logo-navbar {
+        margin-left: 10%;
+    }
+}
+
+@media (max-width: 359px) {
+    .form-user {
+        width: 100%;
+    }
+}
+
+@media (min-width: 360px) {
+    .form-user {
+        width: 360px;
+    }
+}
